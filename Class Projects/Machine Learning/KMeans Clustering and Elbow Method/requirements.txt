@@ -1,0 +1,6 @@
+scikit-learn
+yellowbrick
+matplotlib
+seaborn
+numpy
+scipy
