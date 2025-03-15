@@ -60,4 +60,4 @@ if __name__ == "__main__":
 	plt.xticks(range(1,21))
 
 	plt.grid(True)
-	plt.savefig('kvalues(1).png')
+	plt.savefig('kvalues.png')
