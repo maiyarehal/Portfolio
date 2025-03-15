@@ -25,9 +25,7 @@ This JavaFX application allows users to perform CRUD (Create, Read, Update, Dele
 
 ## Setup
 1. **Clone the repository**:
-    ```sh
-    git clone <repository-url>
-    ```
+   
 2. **Open the project in your IDE**.
 
 3. **Set up the MySQL database**:
