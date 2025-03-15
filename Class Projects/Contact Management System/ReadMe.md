@@ -31,16 +31,13 @@ This JavaFX application allows users to perform CRUD (Create, Read, Update, Dele
 2. **Open the project in your IDE**.
 
 3. **Set up the MySQL database**:
-    - Import the `contact.sql` file to create the `contact` table and insert sample data.
+    - Import the `contact_mysqldump.sql` file to create the `contact` table and insert sample data.
 
 4. **Configure the database connection**:
     - Update the `DbConnection.java` file with your MySQL database URL, username, and password:
-      ```java
-      DriverManager.getConnection("jdbc:mysql://<your-database-url>", "<username>", "<password>");
-      ```
 
 5. **Run the application**:
-    - Execute the `MainApp.java` file.
+    - Execute the `Main.java` file.
 
 ## Usage
 - The main window displays a table with all contacts.
