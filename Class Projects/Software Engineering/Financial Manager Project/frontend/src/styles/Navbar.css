@@ -1,0 +1,17 @@
+.navbar {
+  background-color: BLACK !important;
+}
+
+.navbar .leftside {
+  margin-left: 0px !important;
+}
+
+.navbar .nav-link{
+  color: white !important;
+}
+
+
+.navbar .navbarBtn {
+  border: 0px;
+  width: 200px !important;
+}
