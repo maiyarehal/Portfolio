@@ -28,7 +28,6 @@ This repository is organized into two main sections:
 ## **Explore My Work**  
 Each project folder contains a detailed README file outlining the project's goals, technologies, and key takeaways. This portfolio represents my ability to analyze data, build software solutions, and develop insights that drive efficiency and innovation.
 
----
 
 ## **Connect with Me**  
 💼 [LinkedIn](https://www.linkedin.com/in/maiya-rehal)  
